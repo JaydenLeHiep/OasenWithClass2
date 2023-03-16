@@ -1,0 +1,15 @@
+# ninja log v5
+2	482	1677364823545169104	CMakeFiles/OsencrawlerMitKlassen.dir/main.cpp.o	c7c2acf84b536105
+7	39	1677348557768783579	CMakeFiles/OsencrawlerMitKlassen.dir/enemy.cpp.o	7a14bc2a37b9420e
+483	604	1677364823670038362	OsencrawlerMitKlassen	a216c9fc81a88945
+3	482	1677364823545226769	CMakeFiles/OsencrawlerMitKlassen.dir/robot.cpp.o	61446b8b3986aa0c
+6	468	1677437092356657671	CMakeFiles/OsencrawlerMitKlassen.dir/robot.cpp.o	61446b8b3986aa0c
+5	469	1677437092356661046	CMakeFiles/OsencrawlerMitKlassen.dir/main.cpp.o	c7c2acf84b536105
+469	522	1677437092414229359	OsencrawlerMitKlassen	a216c9fc81a88945
+1	279	1677437140139776721	CMakeFiles/OsencrawlerMitKlassen.dir/robot.cpp.o	61446b8b3986aa0c
+279	312	1677437140174141740	OsencrawlerMitKlassen	a216c9fc81a88945
+1	248	1677437567188715769	CMakeFiles/OsencrawlerMitKlassen.dir/main.cpp.o	c7c2acf84b536105
+249	284	1677437567225495327	OsencrawlerMitKlassen	a216c9fc81a88945
+2	501	1677842122734340317	CMakeFiles/OsencrawlerMitKlassen.dir/main.cpp.o	c7c2acf84b536105
+3	501	1677842122734340942	CMakeFiles/OsencrawlerMitKlassen.dir/robot.cpp.o	61446b8b3986aa0c
+501	618	1677842122856914897	OsencrawlerMitKlassen	a216c9fc81a88945
